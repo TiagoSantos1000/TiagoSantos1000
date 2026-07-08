@@ -8,7 +8,7 @@
 <h2 align="center"> 🤖 Linguagens & Ferramentas </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,haskell,mysql,discord,github,gitlab,html,latex,linux,bash" />
+    <img src="https://skillicons.dev/icons?i=java,c,haskell,mysql,postgres,linux,ubuntu,bash,vscode,git,github,gitlab,latex,html,discord" />
   </a>
 </p>
 
