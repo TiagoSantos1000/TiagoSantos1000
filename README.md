@@ -1,6 +1,6 @@
 <h1 align="center"> 👨🏻‍💻 Tiago Santos </h1>
 <p align="center">
-  Braga, Póvoa de Lanhoso &nbsp;·&nbsp; Portugal &nbsp;·&nbsp; University of Minho &nbsp;·&nbsp; Computer Science &nbsp;·&nbsp; 2nd year
+  Braga, Póvoa de Lanhoso &nbsp;·&nbsp; Portugal &nbsp;·&nbsp; University of Minho &nbsp;·&nbsp; Computer Science &nbsp;·&nbsp; 3rd year
 </p>
 
 ---
@@ -8,7 +8,7 @@
 <h2 align="center"> 🤖 Linguagens & Ferramentas </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,haskell,mysql,postgres,linux,ubuntu,bash,vscode,git,github,gitlab,latex,html,discord" />
+    <img src="https://skillicons.dev/icons?i=java,c,haskell,mysql,linux,ubuntu,git" />
   </a>
 </p>
 
