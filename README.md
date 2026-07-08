@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center"> 👨🏻‍💻 Tiago Santos
+<p align="center">
+  Braga, Póvoa de Lanhoso &nbsp;·&nbsp; Portugal &nbsp;·&nbsp; University of Minho &nbsp;·&nbsp; Computer Science &nbsp;·&nbsp; 2nd year
+</p>
 
-<!--
-**TiagoSantos1000/TiagoSantos1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<h2 align="center"> 🤖 Linguagens & Ferramentas </h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,haskell,mysql,discord,github,gitlab,html,latex,linux,bash" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
